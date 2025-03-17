@@ -8,4 +8,6 @@ Schede Madri (schede_madri.md)
 
 ## Periferiche
 
+Tastiere (tastiere.md)
+
 Elettronica Padovana
